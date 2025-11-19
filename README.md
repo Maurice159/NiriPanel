@@ -1,6 +1,6 @@
-# Niri AGS Status Bar (WIP)
+# NiriPanel (WIP)
 
-This project is a custom status bar for  **Niri Wayland**, built with **AGS v3** and **GTK4**.  
+This project is a custom bar/panel for  **Niri Wayland**, built with **AGS v3** and **GTK4**.  
 It uses the **Niri event stream** to update the bar whenever Niri changes state.
 
 ---
